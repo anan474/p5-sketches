@@ -1,0 +1,21 @@
+{
+  "name": "gen_art",
+  "projects": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "poster-1",
+    "poster-2",
+    "poster-3",
+    "poster-4",
+    "poster-5",
+    "poster-6",
+    "poster-7",
+    "poster-8",
+    "flower-1",
+    "poster-9",
+    "flower-2",
+    "flower-3"
+  ]
+}
